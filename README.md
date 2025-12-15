@@ -1,4 +1,4 @@
-# AI Powered Spend Classifier
+# ML Spend Classifier
 
 ## Overview
 Procurement teams often struggle with messy data where purchase descriptions (e.g., "UBER *TRIP 829") aren't categorized. This project uses Machine Learning to automatically classify spend data into categories (IT, Travel, Marketing, etc.).
@@ -20,3 +20,4 @@ Procurement teams often struggle with messy data where purchase descriptions (e.
 2.  Open `spend_analysis.ipynb` in VS Code or Jupyter.
 
 3.  Run all cells.
+
